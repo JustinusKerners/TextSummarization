@@ -1,0 +1,7 @@
+pip install nltk==3.4.5
+pip install torch==1.12.1
+pip install torchvision==0.13.1
+pip install transformers==4.19.2
+pip install vaderSentiment==3.3.2
+pip install django==2.1.7
+pip install PyMySQL==0.9.3
